@@ -1,0 +1,19 @@
+10:05:12 | N11 Sipariş Sayısı :277
+10:05:19 | N11 Sipariş Sayısı :277
+10:06:35 | N11 Sipariş Sayısı :277
+10:06:35 | N11 Sipariş Sayısı :277
+10:14:55 | Başlangış : 29.06.2019 Bitiş 09.07.2019
+10:19:30 | Başlangış : 29.06.2019 Bitiş 09.07.2019
+10:19:56 | N11 Sipariş Sayısı :277
+11:08:53 | Nesne başvurusu bir nesnenin örneğine ayarlanmadı. Konum :    konum: PazarYeri.BusinessLayer.N11.N11Layer.getOrders(DateTime begdate, DateTime endate) D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\N11\N11Layer.cs içinde: satır 65
+11:38:02 | vedi20190709112037.zip
+12:02:53 | Hata : There is no data. Konum :    konum: System.Web.Services.Protocols.SoapHttpClientProtocol.ReadResponse(SoapClientMessage message, WebResponse response, Stream responseStream, Boolean asyncCall)
+   konum: System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   konum: PazarYeri.BusinessLayer.koctas_com_tr.vediFileTransferWS.getNewPurchaseOrder(VendorDetail VendorDetail, OrderExportDetail OrderExportDetail) D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\Web References\koctas_com_tr\Reference.cs içinde: satır 182
+   konum: PazarYeri.BusinessLayer.Koctas.KoctasLayer.getOrders() D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\Koctas\KoctasLayer.cs içinde: satır 227
+13:37:45 | path : D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\TempFile
+13:38:01 | Hata : XML belgesinde bir hata var (3, 2). Konum :    konum: System.Xml.Serialization.XmlSerializer.Deserialize(XmlReader xmlReader, String encodingStyle, XmlDeserializationEvents events)
+   konum: System.Xml.Serialization.XmlSerializer.Deserialize(TextReader textReader)
+   konum: PazarYeri.BusinessLayer.Koctas.KoctasLayer.getOrders() D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\Koctas\KoctasLayer.cs içinde: satır 277
+13:38:57 | path : D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\TempFile
+14:25:19 | Nesne başvurusu bir nesnenin örneğine ayarlanmadı. Konum :    konum: PazarYeri.BusinessLayer.N11.N11Layer.getOrders(DateTime begdate, DateTime endate) D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\N11\N11Layer.cs içinde: satır 65

@@ -1,0 +1,3 @@
+11:37:58 | path : D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\TempFile
+11:39:03 | path : D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\TempFile
+11:54:34 | path : D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\TempFile

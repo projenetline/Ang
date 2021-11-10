@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PazarYeri.Test", "PazarYeri.Project\PazarYeri.Test.csproj", "{2A8A274F-87C6-4C29-9B66-EC787D3054E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PazarYeri.BusinessLayer", "PazarYeri.BusinessLayer\PazarYeri.BusinessLayer.csproj", "{4D743105-76DA-4665-A1B6-E116E42F8D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PazarYeri.UI", "PazarYeri.UI\PazarYeri.UI.csproj", "{7B780AF4-DEDA-428C-A2B2-CCD527BC9DA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PazarYeri.Sys", "PazarYeri.Sys\PazarYeri.Sys.csproj", "{4BF07111-185B-4EA0-8434-FEE5E9135465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PazarYeri.Models", "PazarYeri.Models\PazarYeri.Models.csproj", "{F9691E25-20E6-4357-8DA1-56DAC5BC13B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PazarYeri.Service", "PazarYeri.Service\PazarYeri.Service.csproj", "{D6D440EB-1BDA-4B0C-8D12-DE401D25860C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PazarYeri.RnD", "PazarYeri.RnD\PazarYeri.RnD.csproj", "{8C8F9BBA-B8DE-4C74-9659-E3C731A4FE01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A8A274F-87C6-4C29-9B66-EC787D3054E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8A274F-87C6-4C29-9B66-EC787D3054E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8A274F-87C6-4C29-9B66-EC787D3054E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8A274F-87C6-4C29-9B66-EC787D3054E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D743105-76DA-4665-A1B6-E116E42F8D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D743105-76DA-4665-A1B6-E116E42F8D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D743105-76DA-4665-A1B6-E116E42F8D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D743105-76DA-4665-A1B6-E116E42F8D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B780AF4-DEDA-428C-A2B2-CCD527BC9DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B780AF4-DEDA-428C-A2B2-CCD527BC9DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B780AF4-DEDA-428C-A2B2-CCD527BC9DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B780AF4-DEDA-428C-A2B2-CCD527BC9DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF07111-185B-4EA0-8434-FEE5E9135465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF07111-185B-4EA0-8434-FEE5E9135465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF07111-185B-4EA0-8434-FEE5E9135465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF07111-185B-4EA0-8434-FEE5E9135465}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9691E25-20E6-4357-8DA1-56DAC5BC13B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9691E25-20E6-4357-8DA1-56DAC5BC13B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9691E25-20E6-4357-8DA1-56DAC5BC13B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9691E25-20E6-4357-8DA1-56DAC5BC13B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D440EB-1BDA-4B0C-8D12-DE401D25860C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D440EB-1BDA-4B0C-8D12-DE401D25860C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D440EB-1BDA-4B0C-8D12-DE401D25860C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D440EB-1BDA-4B0C-8D12-DE401D25860C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C8F9BBA-B8DE-4C74-9659-E3C731A4FE01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8F9BBA-B8DE-4C74-9659-E3C731A4FE01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8F9BBA-B8DE-4C74-9659-E3C731A4FE01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8F9BBA-B8DE-4C74-9659-E3C731A4FE01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19216515-D5AC-485C-905F-2855995E89AC}
+	EndGlobalSection
+EndGlobal

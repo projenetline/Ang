@@ -1,0 +1,51 @@
+D:\Projelerim\PazarYeri.Project\PazarYeri.Models\bin\Debug\PazarYeri.Models.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Models\bin\Debug\PazarYeri.Models.pdb
+D:\Projelerim\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csprojAssemblyReference.cache
+D:\Projelerim\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csproj.CoreCompileInputs.cache
+D:\Projelerim\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.pdb
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\PazarYeri.Models.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\PazarYeri.Models.pdb
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csprojAssemblyReference.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csproj.CopyComplete
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\PazarYeri.Models.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\PazarYeri.Models.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csprojAssemblyReference.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csproj.CopyComplete
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.pdb
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\PazarYeri.Models.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\PazarYeri.Models.pdb
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csprojAssemblyReference.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csproj.CoreCompileInputs.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csproj.CopyComplete
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.pdb
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\PazarYeri.Models.dll
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\PazarYeri.Models.pdb
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\Newtonsoft.Json.dll
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\Newtonsoft.Json.xml
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csprojAssemblyReference.cache
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csproj.CoreCompileInputs.cache
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csproj.CopyComplete
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.dll
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.pdb
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\PazarYeri.Models.dll
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\PazarYeri.Models.pdb
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\Newtonsoft.Json.dll
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\bin\Debug\Newtonsoft.Json.xml
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csprojAssemblyReference.cache
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csproj.CoreCompileInputs.cache
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.csproj.CopyComplete
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.dll
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Models\obj\Debug\PazarYeri.Models.pdb

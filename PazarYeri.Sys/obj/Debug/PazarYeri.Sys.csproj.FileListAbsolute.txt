@@ -1,0 +1,157 @@
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\PazarYeri.Sys.exe.config
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\PazarYeri.Sys.exe
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\PazarYeri.Sys.pdb
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Data.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Utils.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.XtraBars.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\PazarYeri.BusinessLayer.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\PazarYeri.Models.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ApiV2Client.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\Dapper.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\Newtonsoft.Json.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\PazarYeri.BusinessLayer.pdb
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\PazarYeri.BusinessLayer.dll.config
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\PazarYeri.Models.pdb
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Data.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Utils.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.XtraBars.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\Dapper.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\Newtonsoft.Json.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ApiV2Client.XmlSerializers.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.csprojAssemblyReference.cache
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.frmSYS.resources
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.Properties.Resources.resources
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.csproj.GenerateResource.cache
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.exe.licenses
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.csproj.CoreCompileInputs.cache
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.csproj.CopyComplete
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.exe
+D:\Projelerim\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\PazarYeri.Sys.exe.config
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\PazarYeri.Sys.exe
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\PazarYeri.Sys.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\PazarYeri.BusinessLayer.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\PazarYeri.Models.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ApiV2Client.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\Dapper.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\Newtonsoft.Json.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\PazarYeri.BusinessLayer.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\PazarYeri.BusinessLayer.dll.config
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\PazarYeri.Models.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\Dapper.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\Newtonsoft.Json.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\bin\Debug\ApiV2Client.XmlSerializers.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Sys.exe.config
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Sys.exe
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Sys.pdb
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.csprojAssemblyReference.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.frmSYS.resources
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.Properties.Resources.resources
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.csproj.GenerateResource.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.exe.licenses
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.csproj.CopyComplete
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.exe
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Sys.exe.config
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Sys.exe
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Sys.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.csprojAssemblyReference.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.frmSYS.resources
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.Properties.Resources.resources
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.csproj.GenerateResource.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.exe.licenses
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.csproj.CopyComplete
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.exe
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.pdb
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Sys.exe.config
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Sys.exe
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Sys.pdb
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.csprojAssemblyReference.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.frmSYS.resources
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.Properties.Resources.resources
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.csproj.GenerateResource.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.exe.licenses
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.csproj.CoreCompileInputs.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.csproj.CopyComplete
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.exe
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Sys\obj\Debug\PazarYeri.Sys.pdb

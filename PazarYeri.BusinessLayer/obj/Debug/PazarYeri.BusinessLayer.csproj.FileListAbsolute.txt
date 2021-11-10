@@ -1,0 +1,132 @@
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.dll.config
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.pdb
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\ApiV2Client.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\ApiV2Client.XmlSerializers.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Dapper.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.Models.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Net.Http.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.ServiceModel.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Web.Services.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.Models.pdb
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Dapper.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csprojAssemblyReference.cache
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\Interop.UnityObjects.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.ResolveComReference.cache
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.CopyComplete
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.pdb
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.dll.config
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.pdb
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Dapper.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.Models.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Net.Http.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.ServiceModel.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Web.Services.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.Models.pdb
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Dapper.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csprojAssemblyReference.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\Interop.UnityObjects.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.ResolveComReference.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.Properties.Resources.resources
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.GenerateResource.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.CopyComplete
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.dll.config
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Dapper.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.Models.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Net.Http.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.ServiceModel.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Web.Services.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.Models.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Dapper.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csprojAssemblyReference.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\Interop.UnityObjects.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.ResolveComReference.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.Properties.Resources.resources
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.GenerateResource.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.CopyComplete
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.pdb
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.dll.config
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.pdb
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Dapper.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.Models.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Net.Http.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.ServiceModel.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Web.Services.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.Models.pdb
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Dapper.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\Interop.UnityObjects.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.ResolveComReference.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.Properties.Resources.resources
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.GenerateResource.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.CopyComplete
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.pdb
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.dll.config
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.dll
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.pdb
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Dapper.dll
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.Models.dll
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Net.Http.dll
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.ServiceModel.dll
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Web.Services.dll
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.Models.pdb
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Dapper.xml
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csprojAssemblyReference.cache
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\Interop.UnityObjects.dll
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.ResolveComReference.cache
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.Properties.Resources.resources
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.GenerateResource.cache
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.CopyComplete
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.dll
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.pdb
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.dll.config
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.dll
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.BusinessLayer.pdb
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Dapper.dll
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.Models.dll
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Net.Http.dll
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.ServiceModel.dll
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Web.Services.dll
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\PazarYeri.Models.pdb
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Dapper.xml
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csprojAssemblyReference.cache
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\Interop.UnityObjects.dll
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.ResolveComReference.cache
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.Properties.Resources.resources
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.GenerateResource.cache
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.csproj.CopyComplete
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.dll
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.BusinessLayer\obj\Debug\PazarYeri.BusinessLayer.pdb

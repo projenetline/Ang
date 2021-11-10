@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ProcessPurchaseOrder xmlns="http://www.openapplications.org/oagis/9"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openapplications.org/oagis/9 ProcessPurchaseOrder.xsd" releaseID="normalizedString">
+    <ApplicationArea>
+        <CreationDateTime>2019-08-20</CreationDateTime>
+    </ApplicationArea>
+    <DataArea>
+        <Process></Process>
+        <PurchaseOrder>
+            <PurchaseOrderHeader>
+                <DocumentID>
+                    <ID>5500212221</ID>
+                </DocumentID>
+                <Status>Açık</Status>
+                <SupplierParty>
+                    <PartyIDs>
+                        <ID></ID>
+                    </PartyIDs>
+                </SupplierParty>
+                <ShipToParty>
+                    <Location>
+                        <ID>5001</ID>
+                        <Name>Müşteri Teslim Adresi</Name>
+                        <Directions></Directions>
+                        <Address>
+                            <AddressLine sequence="1"></AddressLine>
+                            <AddressLine sequence="2"></AddressLine>
+                            <CityName></CityName>
+                            <CountrySubDivisionCode></CountrySubDivisionCode>
+                            <CountryCode></CountryCode>
+                            <PostalCode></PostalCode>
+                        </Address>
+                    </Location>
+                </ShipToParty>
+                <RequestedShipDateTime>2019-08-23</RequestedShipDateTime>
+                <ReleaseNumber></ReleaseNumber>
+                <Buyer>SYSTEM1</Buyer>
+                <OrderType>DSW</OrderType>
+            </PurchaseOrderHeader>
+            <PurchaseOrderLine>
+                <LineNumber>00010</LineNumber>
+                <Status>Açık</Status>
+                <Item>
+                    <ItemID>
+                        <ID>8699982620836</ID>
+                    </ItemID>
+                    <CustomerItemID>
+                        <ID>000000001000270658</ID>
+                    </CustomerItemID>
+                    <ManufacturerItemID>
+                        <ID></ID>
+                    </ManufacturerItemID>
+                    <SupplierItemID>
+                        <ID>8699982620836</ID>
+                    </SupplierItemID>
+                    <UPCID></UPCID>
+                    <Description>NISALUCE IBIZA 3LU AVIZE SIYAH</Description>
+                    <Field1>Ahmet,Dal</Field1>
+                    <Field2>05533170328 </Field2>
+                    <BudgetCode>Güneykent mahallesi.102206 sok.kendirci apartmanı.d:1      SAHINBEY / Gaziantep  </BudgetCode>
+                    <Note></Note>
+                    <Barcode>8699982620836</Barcode>
+                </Item>
+                <Quantity>1.000</Quantity>
+                <DueDate>2019-08-23</DueDate>
+                <UnitPrice>
+                    <Amount currencyID="TRY">137.50</Amount>
+                    <PerQuantity>1</PerQuantity>
+                    <Code>ADT</Code>
+                </UnitPrice>
+            </PurchaseOrderLine>
+            <PurchaseOrderSummary>
+                <TotalItemCount>1</TotalItemCount>
+                <TotalAmount currencyID="TRY">137.50</TotalAmount>
+            </PurchaseOrderSummary>
+        </PurchaseOrder>
+    </DataArea>
+</ProcessPurchaseOrder>

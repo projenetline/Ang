@@ -1,0 +1,72 @@
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\PazarYeri.Test.exe.config
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\PazarYeri.Test.exe
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\PazarYeri.Test.pdb
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\Newtonsoft.Json.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\PazarYeri.BusinessLayer.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\PazarYeri.Models.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\System.IO.Compression.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\ApiV2Client.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\Dapper.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\PazarYeri.BusinessLayer.pdb
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\PazarYeri.BusinessLayer.dll.config
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\PazarYeri.Models.pdb
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\Newtonsoft.Json.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\Dapper.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\ApiV2Client.XmlSerializers.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.csprojAssemblyReference.cache
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.exe.config
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.csproj.CoreCompileInputs.cache
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.csproj.CopyComplete
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.exe
+D:\Projelerim\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\bin\Debug\PazarYeri.Test.exe.config
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\bin\Debug\PazarYeri.Test.exe
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\bin\Debug\PazarYeri.Test.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\bin\Debug\Newtonsoft.Json.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\bin\Debug\PazarYeri.BusinessLayer.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\bin\Debug\PazarYeri.Models.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\bin\Debug\System.IO.Compression.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\bin\Debug\ApiV2Client.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\bin\Debug\Dapper.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\bin\Debug\PazarYeri.BusinessLayer.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\bin\Debug\PazarYeri.BusinessLayer.dll.config
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\bin\Debug\PazarYeri.Models.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\bin\Debug\Newtonsoft.Json.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\bin\Debug\Dapper.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\bin\Debug\ApiV2Client.XmlSerializers.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Test.exe.config
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Test.exe
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Test.pdb
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.csprojAssemblyReference.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.exe.config
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.csproj.CopyComplete
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.exe
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Test.exe.config
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Test.exe
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Test.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.csprojAssemblyReference.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.exe.config
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.csproj.CopyComplete
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.exe
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.pdb
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Test.exe.config
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Test.exe
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Test.pdb
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.csprojAssemblyReference.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.exe.config
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.csproj.CoreCompileInputs.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.csproj.CopyComplete
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.exe
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.pdb
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Test.exe.config
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Test.exe
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Test.pdb
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.csprojAssemblyReference.cache
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.exe.config
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.csproj.CoreCompileInputs.cache
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.csproj.CopyComplete
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.exe
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.Project\obj\Debug\PazarYeri.Test.pdb

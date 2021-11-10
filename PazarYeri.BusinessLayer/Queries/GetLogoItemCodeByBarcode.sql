@@ -1,0 +1,5 @@
+﻿SELECT  ISNULL(( SELECT     TOP 1   ITM.CODE
+                 FROM       dbo.LG_001_UNITBARCODE AS BAR
+                 LEFT JOIN  dbo.LG_001_ITEMS AS ITM WITH (NOLOCK) ON ITM.LOGICALREF = BAR.ITEMREF
+                 WHERE      BAR.BARCODE = @BARCODE
+                 ORDER BY   BAR.LOGICALREF DESC), '')

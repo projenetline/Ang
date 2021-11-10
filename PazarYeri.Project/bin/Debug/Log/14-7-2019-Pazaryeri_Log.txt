@@ -1,0 +1,1 @@
+00:24:50 | Nesne başvurusu bir nesnenin örneğine ayarlanmadı. Konum :    konum: PazarYeri.BusinessLayer.N11.N11Layer.getOrders(DateTime begdate, DateTime endate) D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\N11\N11Layer.cs içinde: satır 68

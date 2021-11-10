@@ -1,0 +1,7 @@
+08:31:34 | 205384972784===>>>ahmet emin akkurt
+08:31:34 | 202854986788===>>>resul targay
+08:31:35 | 208623529784===>>>uğur Kutluer
+08:31:35 | 203943589787===>>>Serenay Ünal
+08:31:35 | 207128759785===>>>serdar bicakci
+08:31:35 | 203226819780===>>>Mustafa yüzer
+08:31:35 | Nesne başvurusu bir nesnenin örneğine ayarlanmadı. Konum :    konum: PazarYeri.BusinessLayer.N11.N11Layer.getOrders(DateTime begdate, DateTime endate) D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\N11\N11Layer.cs içinde: satır 68

@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetOpenOrders">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SupplierCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetOpenOrdersResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetOpenOrdersResult" type="tns:ArrayOfThirdPartySasForWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfThirdPartySasForWebService">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ThirdPartySasForWebService" nillable="true" type="tns:ThirdPartySasForWebService" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ThirdPartySasForWebService">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="SasResult" type="tns:ThirdPartySasResult" />
+          <s:element minOccurs="0" maxOccurs="1" name="Date" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="OrderNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SasNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Address" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SasItemList" type="tns:ArrayOfThirdPartySasItem" />
+          <s:element minOccurs="0" maxOccurs="1" name="ReceiverName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="AddressInfo" type="tns:AddressInfo" />
+        </s:sequence>
+      </s:complexType>
+      <s:simpleType name="ThirdPartySasResult">
+        <s:restriction base="s:string">
+          <s:enumeration value="Gonderildi" />
+          <s:enumeration value="Ertelendi" />
+          <s:enumeration value="Cevaplanmadı" />
+          <s:enumeration value="TedarikciGonderemiyor" />
+          <s:enumeration value="Iptal" />
+          <s:enumeration value="BarkodYazdirildi" />
+          <s:enumeration value="FaturaOlusturuldu" />
+        </s:restriction>
+      </s:simpleType>
+      <s:complexType name="ArrayOfThirdPartySasItem">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ThirdPartySasItem" nillable="true" type="tns:ThirdPartySasItem" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ThirdPartySasItem">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Sku" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TedSku" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Barcodes" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Adet" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="ProductName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="KalemNo" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="CustomerCancelRequest" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="CustomerNote" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="EstimatedShipmentDate" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="TotalPriceWithoutTax" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="CurrencyString" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TaxRate" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="FaturaTutar" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="FaturaKur" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FaturaTarih" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="FaturaNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CargoFirm" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CargoFirmText" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Seen" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SelfBilling" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SchItem" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SerialNumberList" type="tns:ArrayOfString" />
+          <s:element minOccurs="1" maxOccurs="1" name="SerialNumberRequired" type="s:boolean" />
+          <s:element minOccurs="0" maxOccurs="1" name="DefinitionName" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfString">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="string" nillable="true" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="AddressInfo">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="isim" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="adres1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="adres2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="adres3" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="city" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="district" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="town" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="country" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="telgonderen" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="telteslimalan" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="isimgonderen" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetOpenOrders_WithDate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SupplierCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="fromDate" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="toDate" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetOpenOrders_WithDateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetOpenOrders_WithDateResult" type="tns:ArrayOfThirdPartySasForWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetOpenOrder">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SupplierCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="SasNo" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetOpenOrderResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetOpenOrderResult" type="tns:ThirdPartySasForWebService" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SplitOrder">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SupplierCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="input" type="tns:SplitOrderInput" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="SplitOrderInput">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SourceSasNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Details" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Items" type="tns:ArrayOfSplitOrderInputItem" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfSplitOrderInputItem">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="SplitOrderInputItem" nillable="true" type="tns:SplitOrderInputItem" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="SplitOrderInputItem">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="LineNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Quantity" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="SplitOrderResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SplitOrderResult" type="tns:SplitOrderOutput" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="SplitOrderOutput">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:OutputBaseOfSplitOrderOutput" />
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="OutputBaseOfSplitOrderOutput" abstract="true">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="ResultCode" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="CreateInvoice">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SupplierCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="input" type="tns:CreateInvoiceInput" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="CreateInvoiceInput">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SasNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Items" type="tns:ArrayOfCreateInvoiceInputItem" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfCreateInvoiceInputItem">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="CreateInvoiceInputItem" nillable="true" type="tns:CreateInvoiceInputItem" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="CreateInvoiceInputItem">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="LineNo" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SerialNumbers" type="tns:ArrayOfString" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="CreateInvoiceResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CreateInvoiceResult" type="tns:CreateInvoiceOutput" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="CreateInvoiceOutput">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:OutputBaseOfCreateInvoiceOutput" />
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="OutputBaseOfCreateInvoiceOutput" abstract="true">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="ResultCode" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetInvoice">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SupplierCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="input" type="tns:GetInvoiceInput" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="GetInvoiceInput">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="TicketId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SasNo" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetInvoiceResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetInvoiceResult" type="tns:GetInvoiceOutput" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="GetInvoiceOutput">
+        <s:complexContent mixed="false">
+          <s:extension base="tns:OutputBaseOfGetInvoiceOutput">
+            <s:sequence>
+              <s:element minOccurs="0" maxOccurs="1" name="Data" type="s:base64Binary" />
+            </s:sequence>
+          </s:extension>
+        </s:complexContent>
+      </s:complexType>
+      <s:complexType name="OutputBaseOfGetInvoiceOutput" abstract="true">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="ResultCode" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="Message" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="ArrayOfThirdPartySasForWebService" nillable="true" type="tns:ArrayOfThirdPartySasForWebService" />
+      <s:element name="ThirdPartySasForWebService" nillable="true" type="tns:ThirdPartySasForWebService" />
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetOpenOrdersSoapIn">
+    <wsdl:part name="parameters" element="tns:GetOpenOrders" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrdersSoapOut">
+    <wsdl:part name="parameters" element="tns:GetOpenOrdersResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_WithDateSoapIn">
+    <wsdl:part name="parameters" element="tns:GetOpenOrders_WithDate" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_WithDateSoapOut">
+    <wsdl:part name="parameters" element="tns:GetOpenOrders_WithDateResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrderSoapIn">
+    <wsdl:part name="parameters" element="tns:GetOpenOrder" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrderSoapOut">
+    <wsdl:part name="parameters" element="tns:GetOpenOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="SplitOrderSoapIn">
+    <wsdl:part name="parameters" element="tns:SplitOrder" />
+  </wsdl:message>
+  <wsdl:message name="SplitOrderSoapOut">
+    <wsdl:part name="parameters" element="tns:SplitOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="CreateInvoiceSoapIn">
+    <wsdl:part name="parameters" element="tns:CreateInvoice" />
+  </wsdl:message>
+  <wsdl:message name="CreateInvoiceSoapOut">
+    <wsdl:part name="parameters" element="tns:CreateInvoiceResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetInvoiceSoapIn">
+    <wsdl:part name="parameters" element="tns:GetInvoice" />
+  </wsdl:message>
+  <wsdl:message name="GetInvoiceSoapOut">
+    <wsdl:part name="parameters" element="tns:GetInvoiceResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrdersHttpGetIn">
+    <wsdl:part name="SupplierCode" type="s:string" />
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrdersHttpGetOut">
+    <wsdl:part name="Body" element="tns:ArrayOfThirdPartySasForWebService" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_WithDateHttpGetIn">
+    <wsdl:part name="SupplierCode" type="s:string" />
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+    <wsdl:part name="fromDate" type="s:string" />
+    <wsdl:part name="toDate" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_WithDateHttpGetOut">
+    <wsdl:part name="Body" element="tns:ArrayOfThirdPartySasForWebService" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrderHttpGetIn">
+    <wsdl:part name="SupplierCode" type="s:string" />
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+    <wsdl:part name="SasNo" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrderHttpGetOut">
+    <wsdl:part name="Body" element="tns:ThirdPartySasForWebService" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrdersHttpPostIn">
+    <wsdl:part name="SupplierCode" type="s:string" />
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrdersHttpPostOut">
+    <wsdl:part name="Body" element="tns:ArrayOfThirdPartySasForWebService" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_WithDateHttpPostIn">
+    <wsdl:part name="SupplierCode" type="s:string" />
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+    <wsdl:part name="fromDate" type="s:string" />
+    <wsdl:part name="toDate" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_WithDateHttpPostOut">
+    <wsdl:part name="Body" element="tns:ArrayOfThirdPartySasForWebService" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrderHttpPostIn">
+    <wsdl:part name="SupplierCode" type="s:string" />
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+    <wsdl:part name="SasNo" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrderHttpPostOut">
+    <wsdl:part name="Body" element="tns:ThirdPartySasForWebService" />
+  </wsdl:message>
+  <wsdl:portType name="orders3rdPartyNewSoap">
+    <wsdl:operation name="GetOpenOrders">
+      <wsdl:input message="tns:GetOpenOrdersSoapIn" />
+      <wsdl:output message="tns:GetOpenOrdersSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_WithDate">
+      <wsdl:input message="tns:GetOpenOrders_WithDateSoapIn" />
+      <wsdl:output message="tns:GetOpenOrders_WithDateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrder">
+      <wsdl:input message="tns:GetOpenOrderSoapIn" />
+      <wsdl:output message="tns:GetOpenOrderSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SplitOrder">
+      <wsdl:input message="tns:SplitOrderSoapIn" />
+      <wsdl:output message="tns:SplitOrderSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateInvoice">
+      <wsdl:input message="tns:CreateInvoiceSoapIn" />
+      <wsdl:output message="tns:CreateInvoiceSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetInvoice">
+      <wsdl:input message="tns:GetInvoiceSoapIn" />
+      <wsdl:output message="tns:GetInvoiceSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="orders3rdPartyNewHttpGet">
+    <wsdl:operation name="GetOpenOrders">
+      <wsdl:input message="tns:GetOpenOrdersHttpGetIn" />
+      <wsdl:output message="tns:GetOpenOrdersHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_WithDate">
+      <wsdl:input message="tns:GetOpenOrders_WithDateHttpGetIn" />
+      <wsdl:output message="tns:GetOpenOrders_WithDateHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrder">
+      <wsdl:input message="tns:GetOpenOrderHttpGetIn" />
+      <wsdl:output message="tns:GetOpenOrderHttpGetOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="orders3rdPartyNewHttpPost">
+    <wsdl:operation name="GetOpenOrders">
+      <wsdl:input message="tns:GetOpenOrdersHttpPostIn" />
+      <wsdl:output message="tns:GetOpenOrdersHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_WithDate">
+      <wsdl:input message="tns:GetOpenOrders_WithDateHttpPostIn" />
+      <wsdl:output message="tns:GetOpenOrders_WithDateHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrder">
+      <wsdl:input message="tns:GetOpenOrderHttpPostIn" />
+      <wsdl:output message="tns:GetOpenOrderHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="orders3rdPartyNewSoap" type="tns:orders3rdPartyNewSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetOpenOrders">
+      <soap:operation soapAction="http://tempuri.org/GetOpenOrders" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_WithDate">
+      <soap:operation soapAction="http://tempuri.org/GetOpenOrders_WithDate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrder">
+      <soap:operation soapAction="http://tempuri.org/GetOpenOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SplitOrder">
+      <soap:operation soapAction="http://tempuri.org/SplitOrder" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateInvoice">
+      <soap:operation soapAction="http://tempuri.org/CreateInvoice" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetInvoice">
+      <soap:operation soapAction="http://tempuri.org/GetInvoice" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="orders3rdPartyNewSoap12" type="tns:orders3rdPartyNewSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetOpenOrders">
+      <soap12:operation soapAction="http://tempuri.org/GetOpenOrders" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_WithDate">
+      <soap12:operation soapAction="http://tempuri.org/GetOpenOrders_WithDate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrder">
+      <soap12:operation soapAction="http://tempuri.org/GetOpenOrder" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SplitOrder">
+      <soap12:operation soapAction="http://tempuri.org/SplitOrder" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateInvoice">
+      <soap12:operation soapAction="http://tempuri.org/CreateInvoice" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetInvoice">
+      <soap12:operation soapAction="http://tempuri.org/GetInvoice" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="orders3rdPartyNewHttpGet" type="tns:orders3rdPartyNewHttpGet">
+    <http:binding verb="GET" />
+    <wsdl:operation name="GetOpenOrders">
+      <http:operation location="/GetOpenOrders" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_WithDate">
+      <http:operation location="/GetOpenOrders_WithDate" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrder">
+      <http:operation location="/GetOpenOrder" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="orders3rdPartyNewHttpPost" type="tns:orders3rdPartyNewHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="GetOpenOrders">
+      <http:operation location="/GetOpenOrders" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_WithDate">
+      <http:operation location="/GetOpenOrders_WithDate" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrder">
+      <http:operation location="/GetOpenOrder" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="orders3rdPartyNew">
+    <wsdl:port name="orders3rdPartyNewSoap" binding="tns:orders3rdPartyNewSoap">
+      <soap:address location="http://localhost:19106/services/orders3rdPartyNew.asmx" />
+    </wsdl:port>
+    <wsdl:port name="orders3rdPartyNewSoap12" binding="tns:orders3rdPartyNewSoap12">
+      <soap12:address location="http://localhost:19106/services/orders3rdPartyNew.asmx" />
+    </wsdl:port>
+    <wsdl:port name="orders3rdPartyNewHttpGet" binding="tns:orders3rdPartyNewHttpGet">
+      <http:address location="http://localhost:19106/services/orders3rdPartyNew.asmx" />
+    </wsdl:port>
+    <wsdl:port name="orders3rdPartyNewHttpPost" binding="tns:orders3rdPartyNewHttpPost">
+      <http:address location="http://localhost:19106/services/orders3rdPartyNew.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

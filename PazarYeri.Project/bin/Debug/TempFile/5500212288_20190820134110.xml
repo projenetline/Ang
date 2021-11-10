@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ProcessPurchaseOrder xmlns="http://www.openapplications.org/oagis/9"  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openapplications.org/oagis/9 ProcessPurchaseOrder.xsd" releaseID="normalizedString">
+    <ApplicationArea>
+        <CreationDateTime>2019-08-20</CreationDateTime>
+    </ApplicationArea>
+    <DataArea>
+        <Process></Process>
+        <PurchaseOrder>
+            <PurchaseOrderHeader>
+                <DocumentID>
+                    <ID>5500212288</ID>
+                </DocumentID>
+                <Status>Açık</Status>
+                <SupplierParty>
+                    <PartyIDs>
+                        <ID></ID>
+                    </PartyIDs>
+                </SupplierParty>
+                <ShipToParty>
+                    <Location>
+                        <ID>5001</ID>
+                        <Name>Müşteri Teslim Adresi</Name>
+                        <Directions></Directions>
+                        <Address>
+                            <AddressLine sequence="1"></AddressLine>
+                            <AddressLine sequence="2"></AddressLine>
+                            <CityName></CityName>
+                            <CountrySubDivisionCode></CountrySubDivisionCode>
+                            <CountryCode></CountryCode>
+                            <PostalCode></PostalCode>
+                        </Address>
+                    </Location>
+                </ShipToParty>
+                <RequestedShipDateTime>2019-08-23</RequestedShipDateTime>
+                <ReleaseNumber></ReleaseNumber>
+                <Buyer>SYSTEM1</Buyer>
+                <OrderType>DSW</OrderType>
+            </PurchaseOrderHeader>
+            <PurchaseOrderLine>
+                <LineNumber>00010</LineNumber>
+                <Status>Açık</Status>
+                <Item>
+                    <ItemID>
+                        <ID>8699982620904</ID>
+                    </ItemID>
+                    <CustomerItemID>
+                        <ID>000000001000270832</ID>
+                    </CustomerItemID>
+                    <ManufacturerItemID>
+                        <ID></ID>
+                    </ManufacturerItemID>
+                    <SupplierItemID>
+                        <ID>8699982620904</ID>
+                    </SupplierItemID>
+                    <UPCID></UPCID>
+                    <Description>NISALUCE SANTANA 4LU AVIZE SIYAH</Description>
+                    <Field1>Görkem,Tuncel</Field1>
+                    <Field2>05333161095 </Field2>
+                    <BudgetCode>1386.sok Meksika sokağı no:17 .      KONAK / İzmir  </BudgetCode>
+                    <Note></Note>
+                    <Barcode>8699982620904</Barcode>
+                </Item>
+                <Quantity>1.000</Quantity>
+                <DueDate>2019-08-23</DueDate>
+                <UnitPrice>
+                    <Amount currencyID="TRY">104.50</Amount>
+                    <PerQuantity>1</PerQuantity>
+                    <Code>ADT</Code>
+                </UnitPrice>
+            </PurchaseOrderLine>
+            <PurchaseOrderLine>
+                <LineNumber>00020</LineNumber>
+                <Status>Açık</Status>
+                <Item>
+                    <ItemID>
+                        <ID>8699982620935</ID>
+                    </ItemID>
+                    <CustomerItemID>
+                        <ID>000000001000270829</ID>
+                    </CustomerItemID>
+                    <ManufacturerItemID>
+                        <ID></ID>
+                    </ManufacturerItemID>
+                    <SupplierItemID>
+                        <ID>8699982620935</ID>
+                    </SupplierItemID>
+                    <UPCID></UPCID>
+                    <Description>NISALUCE SANTANA 4LU AVIZE BEYAZ</Description>
+                    <Field1>Görkem,Tuncel</Field1>
+                    <Field2>05333161095 </Field2>
+                    <BudgetCode>1386.sok Meksika sokağı no:17 .      KONAK / İzmir  </BudgetCode>
+                    <Note></Note>
+                    <Barcode>8699982620935</Barcode>
+                </Item>
+                <Quantity>1.000</Quantity>
+                <DueDate>2019-08-23</DueDate>
+                <UnitPrice>
+                    <Amount currencyID="TRY">104.50</Amount>
+                    <PerQuantity>1</PerQuantity>
+                    <Code>ADT</Code>
+                </UnitPrice>
+            </PurchaseOrderLine>
+            <PurchaseOrderSummary>
+                <TotalItemCount>2</TotalItemCount>
+                <TotalAmount currencyID="TRY">209.00</TotalAmount>
+            </PurchaseOrderSummary>
+        </PurchaseOrder>
+    </DataArea>
+</ProcessPurchaseOrder>

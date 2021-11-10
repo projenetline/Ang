@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://www.w3.org/ns/ws-policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Svc" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://195.175.208.62:6161/LogoObjectService?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://195.175.208.62:6161/LogoObjectService?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ISvc_AppendDataObject_InputMessage">
+    <wsdl:part name="parameters" element="tns:AppendDataObject" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_AppendDataObject_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AppendDataObjectResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_ReadDataObject_InputMessage">
+    <wsdl:part name="parameters" element="tns:ReadDataObject" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_ReadDataObject_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ReadDataObjectResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_ReadDataObjectXML_InputMessage">
+    <wsdl:part name="parameters" element="tns:ReadDataObjectXML" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_ReadDataObjectXML_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ReadDataObjectXMLResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_DeleteDataObject_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteDataObject" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_DeleteDataObject_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeleteDataObjectResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_CalculateDataObject_InputMessage">
+    <wsdl:part name="parameters" element="tns:CalculateDataObject" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_CalculateDataObject_OutputMessage">
+    <wsdl:part name="parameters" element="tns:CalculateDataObjectResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_ExecQuery_InputMessage">
+    <wsdl:part name="parameters" element="tns:ExecQuery" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_ExecQuery_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ExecQueryResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_DirectQuery_InputMessage">
+    <wsdl:part name="parameters" element="tns:DirectQuery" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_DirectQuery_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DirectQueryResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_getValue_InputMessage">
+    <wsdl:part name="parameters" element="tns:getValue" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_getValue_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getValueResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_getTableName_InputMessage">
+    <wsdl:part name="parameters" element="tns:getTableName" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_getTableName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getTableNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_printDoc_InputMessage">
+    <wsdl:part name="parameters" element="tns:printDoc" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_printDoc_OutputMessage">
+    <wsdl:part name="parameters" element="tns:printDocResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_getInfo_InputMessage">
+    <wsdl:part name="parameters" element="tns:getInfo" />
+  </wsdl:message>
+  <wsdl:message name="ISvc_getInfo_OutputMessage">
+    <wsdl:part name="parameters" element="tns:getInfoResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ISvc">
+    <wsdl:operation name="AppendDataObject">
+      <wsdl:input wsam:Action="http://tempuri.org/ISvc/AppendDataObject" message="tns:ISvc_AppendDataObject_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/ISvc/AppendDataObjectResponse" message="tns:ISvc_AppendDataObject_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ReadDataObject">
+      <wsdl:input wsam:Action="http://tempuri.org/ISvc/ReadDataObject" message="tns:ISvc_ReadDataObject_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/ISvc/ReadDataObjectResponse" message="tns:ISvc_ReadDataObject_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ReadDataObjectXML">
+      <wsdl:input wsam:Action="http://tempuri.org/ISvc/ReadDataObjectXML" message="tns:ISvc_ReadDataObjectXML_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/ISvc/ReadDataObjectXMLResponse" message="tns:ISvc_ReadDataObjectXML_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeleteDataObject">
+      <wsdl:input wsam:Action="http://tempuri.org/ISvc/DeleteDataObject" message="tns:ISvc_DeleteDataObject_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/ISvc/DeleteDataObjectResponse" message="tns:ISvc_DeleteDataObject_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="CalculateDataObject">
+      <wsdl:input wsam:Action="http://tempuri.org/ISvc/CalculateDataObject" message="tns:ISvc_CalculateDataObject_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/ISvc/CalculateDataObjectResponse" message="tns:ISvc_CalculateDataObject_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ExecQuery">
+      <wsdl:input wsam:Action="http://tempuri.org/ISvc/ExecQuery" message="tns:ISvc_ExecQuery_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/ISvc/ExecQueryResponse" message="tns:ISvc_ExecQuery_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DirectQuery">
+      <wsdl:input wsam:Action="http://tempuri.org/ISvc/DirectQuery" message="tns:ISvc_DirectQuery_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/ISvc/DirectQueryResponse" message="tns:ISvc_DirectQuery_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getValue">
+      <wsdl:input wsam:Action="http://tempuri.org/ISvc/getValue" message="tns:ISvc_getValue_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/ISvc/getValueResponse" message="tns:ISvc_getValue_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getTableName">
+      <wsdl:input wsam:Action="http://tempuri.org/ISvc/getTableName" message="tns:ISvc_getTableName_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/ISvc/getTableNameResponse" message="tns:ISvc_getTableName_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="printDoc">
+      <wsdl:input wsam:Action="http://tempuri.org/ISvc/printDoc" message="tns:ISvc_printDoc_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/ISvc/printDocResponse" message="tns:ISvc_printDoc_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="getInfo">
+      <wsdl:input wsam:Action="http://tempuri.org/ISvc/getInfo" message="tns:ISvc_getInfo_InputMessage" />
+      <wsdl:output wsam:Action="http://tempuri.org/ISvc/getInfoResponse" message="tns:ISvc_getInfo_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ISvc" type="tns:ISvc">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AppendDataObject">
+      <soap:operation soapAction="http://tempuri.org/ISvc/AppendDataObject" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReadDataObject">
+      <soap:operation soapAction="http://tempuri.org/ISvc/ReadDataObject" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ReadDataObjectXML">
+      <soap:operation soapAction="http://tempuri.org/ISvc/ReadDataObjectXML" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeleteDataObject">
+      <soap:operation soapAction="http://tempuri.org/ISvc/DeleteDataObject" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CalculateDataObject">
+      <soap:operation soapAction="http://tempuri.org/ISvc/CalculateDataObject" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ExecQuery">
+      <soap:operation soapAction="http://tempuri.org/ISvc/ExecQuery" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DirectQuery">
+      <soap:operation soapAction="http://tempuri.org/ISvc/DirectQuery" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getValue">
+      <soap:operation soapAction="http://tempuri.org/ISvc/getValue" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getTableName">
+      <soap:operation soapAction="http://tempuri.org/ISvc/getTableName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="printDoc">
+      <soap:operation soapAction="http://tempuri.org/ISvc/printDoc" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getInfo">
+      <soap:operation soapAction="http://tempuri.org/ISvc/getInfo" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Svc">
+    <wsdl:port name="BasicHttpBinding_ISvc" binding="tns:BasicHttpBinding_ISvc">
+      <soap:address location="http://195.175.208.62:6161/LogoObjectService/Service" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

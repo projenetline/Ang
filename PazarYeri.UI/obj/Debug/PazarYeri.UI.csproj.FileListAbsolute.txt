@@ -1,0 +1,729 @@
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.UI.exe.config
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.UI.exe
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.UI.pdb
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Data.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.DataAccess.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.DataAccess.v16.2.UI.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Office.v16.2.Core.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Spreadsheet.v16.2.Core.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Utils.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Utils.v16.2.UI.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraBars.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraSpreadsheet.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.BusinessLayer.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Models.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ApiV2Client.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\Dapper.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\Newtonsoft.Json.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Xpo.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.CodeParser.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Diagram.v16.2.Core.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraDiagram.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.BusinessLayer.pdb
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.BusinessLayer.dll.config
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Models.pdb
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Data.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.DataAccess.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.DataAccess.v16.2.UI.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Office.v16.2.Core.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Spreadsheet.v16.2.Core.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Utils.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraBars.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraSpreadsheet.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\Dapper.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\Newtonsoft.Json.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Xpo.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Diagram.v16.2.Core.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraDiagram.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.DataAccess.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.DataAccess.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.DataAccess.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.DataAccess.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.DataAccess.v16.2.UI.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.DataAccess.v16.2.UI.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.DataAccess.v16.2.UI.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.DataAccess.v16.2.UI.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Utils.v16.2.UI.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Utils.v16.2.UI.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Utils.v16.2.UI.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Utils.v16.2.UI.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Diagram.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Diagram.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Diagram.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Diagram.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\bin\Debug\ApiV2Client.XmlSerializers.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csprojAssemblyReference.cache
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmProductPairing.resources
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmPazarYeri.resources
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmProductList.resources
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.Properties.Resources.resources
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.GenerateResource.cache
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.exe.licenses
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.CoreCompileInputs.cache
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.CopyComplete
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.exe
+D:\Projelerim\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.pdb
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.UI.exe.config
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.UI.exe
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.UI.pdb
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Data.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.DataAccess.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.DataAccess.v16.2.UI.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Office.v16.2.Core.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Spreadsheet.v16.2.Core.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Utils.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Utils.v16.2.UI.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraBars.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraSpreadsheet.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.BusinessLayer.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Models.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ApiV2Client.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\Dapper.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Xpo.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.CodeParser.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Diagram.v16.2.Core.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraDiagram.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.BusinessLayer.pdb
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.BusinessLayer.dll.config
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Models.pdb
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Data.v16.2.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.DataAccess.v16.2.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.DataAccess.v16.2.UI.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Office.v16.2.Core.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Spreadsheet.v16.2.Core.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Utils.v16.2.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraBars.v16.2.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraSpreadsheet.v16.2.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\Dapper.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Xpo.v16.2.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Diagram.v16.2.Core.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraDiagram.v16.2.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.DataAccess.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.DataAccess.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.DataAccess.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.DataAccess.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.DataAccess.v16.2.UI.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.DataAccess.v16.2.UI.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.DataAccess.v16.2.UI.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.DataAccess.v16.2.UI.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Utils.v16.2.UI.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Utils.v16.2.UI.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Utils.v16.2.UI.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Utils.v16.2.UI.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Diagram.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Diagram.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Diagram.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Diagram.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ApiV2Client.XmlSerializers.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csprojAssemblyReference.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.ResolveComReference.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmProductPairing.resources
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmPazarYeri.resources
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmProductList.resources
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.Properties.Resources.resources
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.GenerateResource.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.exe.licenses
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.CopyComplete
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.exe
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.UI.exe.config
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.UI.exe
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.UI.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.DataAccess.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.DataAccess.v16.2.UI.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Spreadsheet.v16.2.Core.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Utils.v16.2.UI.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraSpreadsheet.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.BusinessLayer.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Models.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ApiV2Client.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\Dapper.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Xpo.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.CodeParser.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Diagram.v16.2.Core.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraDiagram.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.BusinessLayer.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.BusinessLayer.dll.config
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Models.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.DataAccess.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.DataAccess.v16.2.UI.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Spreadsheet.v16.2.Core.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraSpreadsheet.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\Dapper.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Xpo.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Diagram.v16.2.Core.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraDiagram.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.DataAccess.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.DataAccess.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.DataAccess.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.DataAccess.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ApiV2Client.XmlSerializers.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csprojAssemblyReference.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.ResolveComReference.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmProductPairing.resources
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmPazarYeri.resources
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmProductList.resources
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.Properties.Resources.resources
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.GenerateResource.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.exe.licenses
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.CopyComplete
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.exe
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.pdb
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.UI.exe.config
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.UI.exe
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.UI.pdb
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Charts.v16.2.Core.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Data.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.DataAccess.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.DataAccess.v16.2.UI.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Office.v16.2.Core.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.RichEdit.v16.2.Core.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Spreadsheet.v16.2.Core.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Utils.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Utils.v16.2.UI.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraBars.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraCharts.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraGrid.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraLayout.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraNavBar.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraPrinting.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraRichEdit.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraSpreadsheet.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraTreeList.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.BusinessLayer.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Models.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ApiV2Client.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\Dapper.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Xpo.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.CodeParser.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Diagram.v16.2.Core.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraDiagram.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.BusinessLayer.pdb
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.BusinessLayer.dll.config
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Models.pdb
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Data.v16.2.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.DataAccess.v16.2.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.DataAccess.v16.2.UI.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Office.v16.2.Core.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Spreadsheet.v16.2.Core.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Utils.v16.2.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraBars.v16.2.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraSpreadsheet.v16.2.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\Dapper.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Xpo.v16.2.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Diagram.v16.2.Core.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraDiagram.v16.2.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.DataAccess.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.DataAccess.v16.2.UI.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Office.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.RichEdit.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Spreadsheet.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Utils.v16.2.UI.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraBars.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraCharts.v16.2.Wizard.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraCharts.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraGrid.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraLayout.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraNavBar.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraPrinting.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraRichEdit.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraSpreadsheet.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraTreeList.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Xpo.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Diagram.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\de\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\es\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ja\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ru\DevExpress.XtraVerticalGrid.v16.2.resources.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\ApiV2Client.XmlSerializers.dll
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csprojAssemblyReference.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.ResolveComReference.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmProductPairing.resources
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmPazarYeri.resources
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmProductList.resources
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.Properties.Resources.resources
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.GenerateResource.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.exe.licenses
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.CoreCompileInputs.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.CopyComplete
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.exe
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.pdb
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csprojAssemblyReference.cache
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.ResolveComReference.cache
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmProductPairing.resources
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmPazarYeri.resources
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmProductList.resources
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.Properties.Resources.resources
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.GenerateResource.cache
+D:\Projelerim\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.exe.licenses
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csprojAssemblyReference.cache
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.ResolveComReference.cache
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmProductPairing.resources
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmPazarYeri.resources
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.frmProductList.resources
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.Properties.Resources.resources
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.csproj.GenerateResource.cache
+D:\Projelerim\Githup\Ang Pazaryeri\Ang\PazarYeri.Project\PazarYeri.UI\obj\Debug\PazarYeri.UI.exe.licenses

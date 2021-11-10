@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetOpenOrders">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SupplierCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetOpenOrdersResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetOpenOrdersResult" type="tns:ArrayOfSasItem" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfSasItem">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="SasItem" nillable="true" type="tns:SasItem" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="SasItem">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Termins" type="tns:ArrayOfSasItemTermin" />
+          <s:element minOccurs="0" maxOccurs="1" name="addressdetails" type="tns:AddressInfo" />
+          <s:element minOccurs="0" maxOccurs="1" name="SasID" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="SasNo" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="SasItemNr" type="s:int" />
+          <s:element minOccurs="0" maxOccurs="1" name="ProductName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="HBSKU" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TedSKU" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="Quantity" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="CreatedDate" type="s:dateTime" />
+          <s:element minOccurs="1" maxOccurs="1" name="DeliveryDate" type="s:dateTime" />
+          <s:element minOccurs="0" maxOccurs="1" name="ReceiverName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="PackageNote" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Address" type="s:string" />
+          <s:element minOccurs="1" maxOccurs="1" name="UnitPrice" type="s:decimal" />
+          <s:element minOccurs="1" maxOccurs="1" name="TotalPrice" type="s:decimal" />
+          <s:element minOccurs="0" maxOccurs="1" name="Currency" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfSasItemTermin">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="SasItemTermin" nillable="true" type="tns:SasItemTermin" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="SasItemTermin">
+        <s:sequence>
+          <s:element minOccurs="1" maxOccurs="1" name="TerminID" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="SasQty" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="WaitingQty" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="GoodsReceiptQty" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="TerminQty" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="TerminStatus" type="s:int" />
+          <s:element minOccurs="1" maxOccurs="1" name="DeliveryDate" type="s:dateTime" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="AddressInfo">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="isim" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="adres1" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="adres2" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="adres3" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="city" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="district" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="town" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="country" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="telgonderen" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="telteslimalan" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="isimgonderen" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetOpenOrders_WithDate">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SupplierCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="fromDate" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="toDate" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetOpenOrders_WithDateResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetOpenOrders_WithDateResult" type="tns:ArrayOfSasItem" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetOpenOrders_Cancelled_LastWeek">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SupplierCode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="UserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetOpenOrders_Cancelled_LastWeekResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetOpenOrders_Cancelled_LastWeekResult" type="tns:ArrayOfSasItem" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ArrayOfSasItem" nillable="true" type="tns:ArrayOfSasItem" />
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetOpenOrdersSoapIn">
+    <wsdl:part name="parameters" element="tns:GetOpenOrders" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrdersSoapOut">
+    <wsdl:part name="parameters" element="tns:GetOpenOrdersResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_WithDateSoapIn">
+    <wsdl:part name="parameters" element="tns:GetOpenOrders_WithDate" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_WithDateSoapOut">
+    <wsdl:part name="parameters" element="tns:GetOpenOrders_WithDateResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_Cancelled_LastWeekSoapIn">
+    <wsdl:part name="parameters" element="tns:GetOpenOrders_Cancelled_LastWeek" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_Cancelled_LastWeekSoapOut">
+    <wsdl:part name="parameters" element="tns:GetOpenOrders_Cancelled_LastWeekResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrdersHttpGetIn">
+    <wsdl:part name="SupplierCode" type="s:string" />
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrdersHttpGetOut">
+    <wsdl:part name="Body" element="tns:ArrayOfSasItem" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_WithDateHttpGetIn">
+    <wsdl:part name="SupplierCode" type="s:string" />
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+    <wsdl:part name="fromDate" type="s:string" />
+    <wsdl:part name="toDate" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_WithDateHttpGetOut">
+    <wsdl:part name="Body" element="tns:ArrayOfSasItem" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_Cancelled_LastWeekHttpGetIn">
+    <wsdl:part name="SupplierCode" type="s:string" />
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_Cancelled_LastWeekHttpGetOut">
+    <wsdl:part name="Body" element="tns:ArrayOfSasItem" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrdersHttpPostIn">
+    <wsdl:part name="SupplierCode" type="s:string" />
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrdersHttpPostOut">
+    <wsdl:part name="Body" element="tns:ArrayOfSasItem" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_WithDateHttpPostIn">
+    <wsdl:part name="SupplierCode" type="s:string" />
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+    <wsdl:part name="fromDate" type="s:string" />
+    <wsdl:part name="toDate" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_WithDateHttpPostOut">
+    <wsdl:part name="Body" element="tns:ArrayOfSasItem" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_Cancelled_LastWeekHttpPostIn">
+    <wsdl:part name="SupplierCode" type="s:string" />
+    <wsdl:part name="UserName" type="s:string" />
+    <wsdl:part name="Password" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="GetOpenOrders_Cancelled_LastWeekHttpPostOut">
+    <wsdl:part name="Body" element="tns:ArrayOfSasItem" />
+  </wsdl:message>
+  <wsdl:portType name="orders3rdPartySoap">
+    <wsdl:operation name="GetOpenOrders">
+      <wsdl:input message="tns:GetOpenOrdersSoapIn" />
+      <wsdl:output message="tns:GetOpenOrdersSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_WithDate">
+      <wsdl:input message="tns:GetOpenOrders_WithDateSoapIn" />
+      <wsdl:output message="tns:GetOpenOrders_WithDateSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_Cancelled_LastWeek">
+      <wsdl:input message="tns:GetOpenOrders_Cancelled_LastWeekSoapIn" />
+      <wsdl:output message="tns:GetOpenOrders_Cancelled_LastWeekSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="orders3rdPartyHttpGet">
+    <wsdl:operation name="GetOpenOrders">
+      <wsdl:input message="tns:GetOpenOrdersHttpGetIn" />
+      <wsdl:output message="tns:GetOpenOrdersHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_WithDate">
+      <wsdl:input message="tns:GetOpenOrders_WithDateHttpGetIn" />
+      <wsdl:output message="tns:GetOpenOrders_WithDateHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_Cancelled_LastWeek">
+      <wsdl:input message="tns:GetOpenOrders_Cancelled_LastWeekHttpGetIn" />
+      <wsdl:output message="tns:GetOpenOrders_Cancelled_LastWeekHttpGetOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="orders3rdPartyHttpPost">
+    <wsdl:operation name="GetOpenOrders">
+      <wsdl:input message="tns:GetOpenOrdersHttpPostIn" />
+      <wsdl:output message="tns:GetOpenOrdersHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_WithDate">
+      <wsdl:input message="tns:GetOpenOrders_WithDateHttpPostIn" />
+      <wsdl:output message="tns:GetOpenOrders_WithDateHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_Cancelled_LastWeek">
+      <wsdl:input message="tns:GetOpenOrders_Cancelled_LastWeekHttpPostIn" />
+      <wsdl:output message="tns:GetOpenOrders_Cancelled_LastWeekHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="orders3rdPartySoap" type="tns:orders3rdPartySoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetOpenOrders">
+      <soap:operation soapAction="http://tempuri.org/GetOpenOrders" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_WithDate">
+      <soap:operation soapAction="http://tempuri.org/GetOpenOrders_WithDate" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_Cancelled_LastWeek">
+      <soap:operation soapAction="http://tempuri.org/GetOpenOrders_Cancelled_LastWeek" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="orders3rdPartySoap12" type="tns:orders3rdPartySoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetOpenOrders">
+      <soap12:operation soapAction="http://tempuri.org/GetOpenOrders" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_WithDate">
+      <soap12:operation soapAction="http://tempuri.org/GetOpenOrders_WithDate" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_Cancelled_LastWeek">
+      <soap12:operation soapAction="http://tempuri.org/GetOpenOrders_Cancelled_LastWeek" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="orders3rdPartyHttpGet" type="tns:orders3rdPartyHttpGet">
+    <http:binding verb="GET" />
+    <wsdl:operation name="GetOpenOrders">
+      <http:operation location="/GetOpenOrders" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_WithDate">
+      <http:operation location="/GetOpenOrders_WithDate" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_Cancelled_LastWeek">
+      <http:operation location="/GetOpenOrders_Cancelled_LastWeek" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="orders3rdPartyHttpPost" type="tns:orders3rdPartyHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="GetOpenOrders">
+      <http:operation location="/GetOpenOrders" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_WithDate">
+      <http:operation location="/GetOpenOrders_WithDate" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetOpenOrders_Cancelled_LastWeek">
+      <http:operation location="/GetOpenOrders_Cancelled_LastWeek" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="orders3rdParty">
+    <wsdl:port name="orders3rdPartySoap" binding="tns:orders3rdPartySoap">
+      <soap:address location="http://b2b.hepsiburada.com/services/orders3rdPartyNew.asmx" />
+    </wsdl:port>
+    <wsdl:port name="orders3rdPartySoap12" binding="tns:orders3rdPartySoap12">
+      <soap12:address location="http://b2b.hepsiburada.com/services/orders3rdPartyNew.asmx" />
+    </wsdl:port>
+    <wsdl:port name="orders3rdPartyHttpGet" binding="tns:orders3rdPartyHttpGet">
+      <http:address location="http://b2b.hepsiburada.com/services/orders3rdPartyNew.asmx" />
+    </wsdl:port>
+    <wsdl:port name="orders3rdPartyHttpPost" binding="tns:orders3rdPartyHttpPost">
+      <http:address location="http://b2b.hepsiburada.com/services/orders3rdPartyNew.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

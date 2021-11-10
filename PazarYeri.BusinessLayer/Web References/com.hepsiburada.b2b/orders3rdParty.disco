@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="http://b2b.hepsiburada.com/services/orders3rdParty.asmx?wsdl" docRef="http://b2b.hepsiburada.com/services/orders3rdPartyNew.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="http://b2b.hepsiburada.com/services/orders3rdPartyNew.asmx" xmlns:q1="http://tempuri.org/" binding="q1:orders3rdPartySoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="http://b2b.hepsiburada.com/services/orders3rdPartyNew.asmx" xmlns:q2="http://tempuri.org/" binding="q2:orders3rdPartySoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>

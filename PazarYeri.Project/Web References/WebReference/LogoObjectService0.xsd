@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="AppendDataObject">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="dataType" type="xs:int" />
+        <xs:element minOccurs="0" name="dataReference" type="xs:int" />
+        <xs:element minOccurs="0" name="dataXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="paramXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="errorString" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="status" type="xs:unsignedByte" />
+        <xs:element minOccurs="0" name="LbsLoadPass" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FirmNr" type="xs:int" />
+        <xs:element minOccurs="0" name="securityCode" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AppendDataObjectResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="dataReference" type="xs:int" />
+        <xs:element minOccurs="0" name="dataXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="paramXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="errorString" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="status" type="xs:unsignedByte" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ReadDataObject">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="dataType" type="xs:int" />
+        <xs:element minOccurs="0" name="dataReference" type="xs:int" />
+        <xs:element minOccurs="0" name="dataXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="paramXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="errorString" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="status" type="xs:unsignedByte" />
+        <xs:element minOccurs="0" name="LbsLoadPass" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FirmNr" type="xs:int" />
+        <xs:element minOccurs="0" name="securityCode" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ReadDataObjectResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="dataReference" type="xs:int" />
+        <xs:element minOccurs="0" name="dataXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="paramXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="errorString" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="status" type="xs:unsignedByte" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ReadDataObjectXML">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="dataType" type="xs:int" />
+        <xs:element minOccurs="0" name="dataReference" type="xs:int" />
+        <xs:element minOccurs="0" name="dataXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="paramXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="errorString" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="status" type="xs:unsignedByte" />
+        <xs:element minOccurs="0" name="LbsLoadPass" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FirmNr" type="xs:int" />
+        <xs:element minOccurs="0" name="securityCode" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ReadDataObjectXMLResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="dataReference" type="xs:int" />
+        <xs:element minOccurs="0" name="dataXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="paramXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="errorString" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="status" type="xs:unsignedByte" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DeleteDataObject">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="dataType" type="xs:int" />
+        <xs:element minOccurs="0" name="dataReference" type="xs:int" />
+        <xs:element minOccurs="0" name="errorString" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="status" type="xs:unsignedByte" />
+        <xs:element minOccurs="0" name="LbsLoadPass" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FirmNr" type="xs:int" />
+        <xs:element minOccurs="0" name="securityCode" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DeleteDataObjectResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="errorString" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="status" type="xs:unsignedByte" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CalculateDataObject">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="dataType" type="xs:int" />
+        <xs:element minOccurs="0" name="dataReference" type="xs:int" />
+        <xs:element minOccurs="0" name="dataXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="paramXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="errorString" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="status" type="xs:unsignedByte" />
+        <xs:element minOccurs="0" name="LbsLoadPass" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FirmNr" type="xs:int" />
+        <xs:element minOccurs="0" name="securityCode" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CalculateDataObjectResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="dataReference" type="xs:int" />
+        <xs:element minOccurs="0" name="dataXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="paramXML" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="errorString" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="status" type="xs:unsignedByte" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ExecQuery">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="sqlText" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="orderByText" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="securityCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="resultXML" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="errorString" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="status" type="xs:unsignedByte" />
+        <xs:element minOccurs="0" name="LbsLoadPass" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ExecQueryResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="resultXML" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="errorString" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="status" type="xs:unsignedByte" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DirectQuery">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="sqlText" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="securityCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="errorString" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="status" type="xs:unsignedByte" />
+        <xs:element minOccurs="0" name="LbsLoadPass" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="DirectQueryResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="errorString" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="status" type="xs:unsignedByte" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValue">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Flag" type="xs:short" />
+        <xs:element minOccurs="0" name="Value" type="xs:int" />
+        <xs:element minOccurs="0" name="isFlag" type="xs:boolean" />
+        <xs:element minOccurs="0" name="securityCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="LbsLoadPass" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getValueResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="Value" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getTableName">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="TableNr" type="xs:int" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getTableNameResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="getTableNameResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="printDoc">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="doctype" type="xs:short" />
+        <xs:element minOccurs="0" name="docRef" type="xs:int" />
+        <xs:element minOccurs="0" name="termCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="designTitle" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="printerCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="printCnt" type="xs:short" />
+        <xs:element minOccurs="0" name="securityCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="LbsLoadPass" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="printDocResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getInfo">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="resultXML" nillable="true" type="xs:anyType" />
+        <xs:element minOccurs="0" name="securityCode" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="getInfoResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="resultXML" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

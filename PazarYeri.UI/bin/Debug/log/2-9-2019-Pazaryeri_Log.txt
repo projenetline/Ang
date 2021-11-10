@@ -1,0 +1,12 @@
+11:07:43 | [ERROR] (ReNameColumnNames)
+Error: The new name 'OrderTransferAddRowsIfOrder' is already in use as a COLUMN name and would cause a duplicate that is not permitted.
+11:07:43 | [ERROR] (ReNameColumnNames)
+Error: The new name 'OrderTransferRetransferTransferedOrder' is already in use as a COLUMN name and would cause a duplicate that is not permitted.
+11:08:16 | [ERROR] (ReNameColumnNames)
+Error: The new name 'OrderTransferAddRowsIfOrder' is already in use as a COLUMN name and would cause a duplicate that is not permitted.
+11:08:16 | [ERROR] (ReNameColumnNames)
+Error: The new name 'OrderTransferRetransferTransferedOrder' is already in use as a COLUMN name and would cause a duplicate that is not permitted.
+11:08:56 | [ERROR] (ReNameColumnNames)
+Error: The new name 'OrderTransferAddRowsIfOrder' is already in use as a COLUMN name and would cause a duplicate that is not permitted.
+11:08:56 | [ERROR] (ReNameColumnNames)
+Error: The new name 'OrderTransferRetransferTransferedOrder' is already in use as a COLUMN name and would cause a duplicate that is not permitted.

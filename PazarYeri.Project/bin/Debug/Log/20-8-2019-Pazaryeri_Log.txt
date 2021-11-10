@@ -1,0 +1,16 @@
+15:12:45 | path : D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\TempFile
+15:12:56 | Hata : End of Central Directory record could not be found. Konum :    konum: System.IO.Compression.ZipArchive.ReadEndOfCentralDirectory()
+   konum: System.IO.Compression.ZipArchive.Init(Stream stream, ZipArchiveMode mode, Boolean leaveOpen)
+   konum: System.IO.Compression.ZipArchive..ctor(Stream stream, ZipArchiveMode mode, Boolean leaveOpen, Encoding entryNameEncoding)
+   konum: System.IO.Compression.ZipFile.Open(String archiveFileName, ZipArchiveMode mode, Encoding entryNameEncoding)
+   konum: System.IO.Compression.ZipFile.Open(String archiveFileName, ZipArchiveMode mode)
+   konum: PazarYeri.BusinessLayer.Koctas.KoctasLayer.getOrders() D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\Koctas\KoctasLayer.cs içinde: satır 263
+15:13:09 | path : D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\TempFile
+15:13:28 | Hata : End of Central Directory record could not be found. Konum :    konum: System.IO.Compression.ZipArchive.ReadEndOfCentralDirectory()
+   konum: System.IO.Compression.ZipArchive.Init(Stream stream, ZipArchiveMode mode, Boolean leaveOpen)
+   konum: System.IO.Compression.ZipArchive..ctor(Stream stream, ZipArchiveMode mode, Boolean leaveOpen, Encoding entryNameEncoding)
+   konum: System.IO.Compression.ZipFile.Open(String archiveFileName, ZipArchiveMode mode, Encoding entryNameEncoding)
+   konum: System.IO.Compression.ZipFile.Open(String archiveFileName, ZipArchiveMode mode)
+   konum: PazarYeri.BusinessLayer.Koctas.KoctasLayer.getOrders() D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\Koctas\KoctasLayer.cs içinde: satır 263
+15:13:41 | path : D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\TempFile
+15:15:51 | path : D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\TempFile

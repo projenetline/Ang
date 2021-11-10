@@ -1,0 +1,65 @@
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\bin\Debug\PazarYeri.Service.exe.config
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\bin\Debug\PazarYeri.Service.exe
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\bin\Debug\PazarYeri.Service.pdb
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\bin\Debug\PazarYeri.BusinessLayer.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\bin\Debug\PazarYeri.Models.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\bin\Debug\ApiV2Client.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\bin\Debug\Dapper.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\bin\Debug\Newtonsoft.Json.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\bin\Debug\PazarYeri.BusinessLayer.pdb
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\bin\Debug\PazarYeri.BusinessLayer.dll.config
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\bin\Debug\PazarYeri.Models.pdb
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\bin\Debug\Dapper.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\bin\Debug\Newtonsoft.Json.xml
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\bin\Debug\ApiV2Client.XmlSerializers.dll
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.csprojAssemblyReference.cache
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.ProjectInstaller.resources
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.csproj.GenerateResource.cache
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.csproj.CoreCompileInputs.cache
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.csproj.CopyComplete
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.exe
+D:\Projelerim\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\bin\Debug\PazarYeri.Service.exe.config
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\bin\Debug\PazarYeri.Service.exe
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\bin\Debug\PazarYeri.Service.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\bin\Debug\PazarYeri.BusinessLayer.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\bin\Debug\PazarYeri.Models.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\bin\Debug\ApiV2Client.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\bin\Debug\Dapper.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\bin\Debug\PazarYeri.BusinessLayer.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\bin\Debug\PazarYeri.BusinessLayer.dll.config
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\bin\Debug\PazarYeri.Models.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\bin\Debug\Dapper.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\bin\Debug\ApiV2Client.XmlSerializers.dll
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Service.exe.config
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Service.exe
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Service.pdb
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.csprojAssemblyReference.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.ProjectInstaller.resources
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.csproj.GenerateResource.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.csproj.CopyComplete
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.exe
+D:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Service.exe.config
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Service.exe
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Service.pdb
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.csprojAssemblyReference.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.ProjectInstaller.resources
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.csproj.GenerateResource.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.csproj.CopyComplete
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.exe
+C:\Visual Studio Projects Github\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.pdb
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Service.exe.config
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Service.exe
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.UI\bin\Debug\PazarYeri.Service.pdb
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.csprojAssemblyReference.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.ProjectInstaller.resources
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.csproj.GenerateResource.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.csproj.CoreCompileInputs.cache
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.csproj.CopyComplete
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.exe
+C:\Users\TAMERCAN\Documents\GitHub\ang\PazarYeri.Project\PazarYeri.Service\obj\Debug\PazarYeri.Service.pdb

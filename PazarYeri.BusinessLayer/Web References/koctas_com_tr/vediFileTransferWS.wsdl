@@ -1,0 +1,838 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tns="https://www.vsrm.net/vediFileTransferWS/services/vediFileTransferWS" name="vediFileTransferWS" targetNamespace="https://www.vsrm.net/vediFileTransferWS/services/vediFileTransferWS" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="https://www.vsrm.net/vediFileTransferWS/services/vediFileTransferWS">
+      <xsd:element name="transferASNFile">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="ASNDetail" type="tns:ASNDetail" />
+            <xsd:element name="VendorDetail" type="tns:VendorDetail" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="transferASNFileResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="message" type="xsd:string" />
+            <xsd:element name="code" type="xsd:string" />
+            <xsd:element name="status" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="transferInvoiceFile">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="InvoiceDetail" type="tns:InvoiceDetail" />
+            <xsd:element name="VendorDetail" type="tns:VendorDetail" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="transferInvoiceFileResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="message" type="xsd:string" />
+            <xsd:element name="code" type="xsd:string" />
+            <xsd:element name="status" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:complexType name="ASNDetail">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="100000" name="ASNItem" type="tns:ASNItem" />
+          <xsd:element minOccurs="0" maxOccurs="100000" name="AACAsnItem" type="tns:AACAsnItem" />
+          <xsd:element minOccurs="0" maxOccurs="100000" name="MANAsnItem" type="tns:MANAsnItem" />
+          <xsd:element minOccurs="0" maxOccurs="100000" name="UnionAsnItem" type="tns:UnionAsnItem" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="ASNItem">
+        <xsd:sequence>
+          <xsd:element name="asnNumber" type="xsd:string" />
+          <xsd:element name="asnDate" type="tns:date10" />
+          <xsd:element name="totalWeight" type="tns:decimal15.5" />
+          <xsd:element name="shipTo" type="xsd:string" />
+          <xsd:element name="shipFrom" type="xsd:string" />
+          <xsd:element name="packageCount" type="tns:decimal15.5" />
+          <xsd:element name="qtyPerPackage" type="tns:decimal15.5" />
+          <xsd:element name="barcode" type="xsd:string" />
+          <xsd:element name="supplierPartNumber" type="xsd:string" />
+          <xsd:element name="orderNumber" type="xsd:string" />
+          <xsd:element name="shipFrom2" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:simpleType name="decimal15.5">
+        <xsd:restriction base="xsd:decimal">
+          <xsd:totalDigits value="15" />
+          <xsd:fractionDigits value="5" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="decimal20.5">
+        <xsd:restriction base="xsd:decimal">
+          <xsd:totalDigits value="20" />
+          <xsd:fractionDigits value="5" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:simpleType name="date10">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="10" />
+          <xsd:pattern value="\d\d\d\d-\d\d-\d\d" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:element name="transferASNFileFault">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="message" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="transferInvoiceFileFault">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="message" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:complexType name="InvoiceDetail">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="100000" name="InvoiceItem" type="tns:InvoiceItem" />
+          <xsd:element minOccurs="0" maxOccurs="100000" name="UnionInvoiceItem" type="tns:UnionInvoiceItem" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="InvoiceItem">
+        <xsd:sequence>
+          <xsd:element name="invoiceNumber" type="xsd:string" />
+          <xsd:element name="invoiceDate" type="tns:date10" />
+          <xsd:element name="shipTo" type="xsd:string" />
+          <xsd:element name="shipFrom" type="xsd:string" />
+          <xsd:element name="sellerVATName" type="xsd:string" />
+          <xsd:element name="sellerVATNumber" type="xsd:string" />
+          <xsd:element name="currency" type="xsd:string" />
+          <xsd:element name="partNumber" type="xsd:string" />
+          <xsd:element name="partDescription" type="xsd:string" />
+          <xsd:element name="invoiceQty" type="tns:decimal15.5" />
+          <xsd:element name="invoicePrice" type="tns:decimal15.5" />
+          <xsd:element name="bolNumber" type="xsd:string" />
+          <xsd:element name="bolDate" type="tns:date10" />
+          <xsd:element name="buyerName" type="xsd:string" />
+          <xsd:element name="buyerAddress1" type="xsd:string" />
+          <xsd:element name="buyerAddress2" type="xsd:string" />
+          <xsd:element name="buyerAddress3" type="xsd:string" />
+          <xsd:element name="buyerCity" type="xsd:string" />
+          <xsd:element name="buyerState" type="xsd:string" />
+          <xsd:element name="buyerZip" type="xsd:string" />
+          <xsd:element name="buyerCountry" type="xsd:string" />
+          <xsd:element name="buyerCountryCode" type="xsd:string" />
+          <xsd:element name="buyerVATNumber" type="xsd:string" />
+          <xsd:element name="sosSoNumber" type="xsd:string" />
+          <xsd:element name="sosNumber" type="xsd:string" />
+          <xsd:element name="supplierPartNumber" type="xsd:string" />
+          <xsd:element name="buyerOrderNumber" type="xsd:string" />
+          <xsd:element name="shipFrom2" type="xsd:string" />
+          <xsd:element name="shipTo2" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="UnionInvoiceItem">
+        <xsd:sequence>
+          <xsd:element name="invoiceNumber" type="xsd:string" />
+          <xsd:element name="invoiceDate" type="tns:date10" />
+          <xsd:element name="customerNum" type="xsd:string" />
+          <xsd:element name="shipFrom" type="xsd:string" />
+          <xsd:element name="sellerVATName" type="xsd:string" />
+          <xsd:element name="sellerVATNumber" type="xsd:string" />
+          <xsd:element name="currency" type="xsd:string" />
+          <xsd:element name="partNumber" type="xsd:string" />
+          <xsd:element name="partDescription" type="xsd:string" />
+          <xsd:element name="invoiceQty" type="tns:decimal15.5" />
+          <xsd:element name="invoicePrice" type="tns:decimal15.5" />
+          <xsd:element name="bolNumber" type="xsd:string" />
+          <xsd:element name="bolDate" type="tns:date10" />
+          <xsd:element name="buyerName" type="xsd:string" />
+          <xsd:element name="buyerAddress1" type="xsd:string" />
+          <xsd:element name="buyerAddress2" type="xsd:string" />
+          <xsd:element name="buyerAddress3" type="xsd:string" />
+          <xsd:element name="buyerCity" type="xsd:string" />
+          <xsd:element name="buyerState" type="xsd:string" />
+          <xsd:element name="buyerZip" type="xsd:string" />
+          <xsd:element name="buyerCountry" type="xsd:string" />
+          <xsd:element name="buyerCountryCode" type="xsd:string" />
+          <xsd:element name="buyerVATNumber" type="xsd:string" />
+          <xsd:element name="sosSoNumber" type="xsd:string" />
+          <xsd:element name="sosNumber" type="xsd:string" />
+          <xsd:element name="supplierPartNumber" type="xsd:string" />
+          <xsd:element name="orderNumber" type="xsd:string" />
+          <xsd:element name="shipFrom2" type="xsd:string" />
+          <xsd:element name="plantCode" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldS1" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldS2" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldS3" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldS4" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldS5" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldS6" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldN1" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldN2" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldN3" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldN4" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldD1" nillable="true" type="tns:date10" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldD2" nillable="true" type="tns:date10" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldD3" nillable="true" type="tns:date10" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldD4" nillable="true" type="tns:date10" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="VendorDetail">
+        <xsd:sequence>
+          <xsd:element name="vendorId" type="xsd:string" />
+          <xsd:element name="shipToId" type="xsd:string" />
+          <xsd:element name="username" type="xsd:string" />
+          <xsd:element name="password" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="AACAsnItem">
+        <xsd:sequence>
+          <xsd:element name="asnNumber" type="xsd:string" />
+          <xsd:element name="asnDate" type="tns:date10" />
+          <xsd:element name="asnTime" type="xsd:string" />
+          <xsd:element name="meaQual" type="xsd:string" />
+          <xsd:element name="meaValue" type="tns:decimal15.5" />
+          <xsd:element name="meaUOM" type="xsd:string" />
+          <xsd:element name="packingCode" type="xsd:string" />
+          <xsd:element name="ladingQty" type="tns:decimal15.5" />
+          <xsd:element name="td5IDCode" type="xsd:string" />
+          <xsd:element name="td5TransMethod" type="xsd:string" />
+          <xsd:element name="equipmentDescCode" type="xsd:string" />
+          <xsd:element name="equipmentNumber" type="xsd:string" />
+          <xsd:element name="refNumber" type="xsd:string" />
+          <xsd:element name="entityIDCode" type="xsd:string" />
+          <xsd:element name="entityID" type="xsd:string" />
+          <xsd:element name="entityIDCode2" type="xsd:string" />
+          <xsd:element name="entityID2" type="xsd:string" />
+          <xsd:element name="partNumber" type="xsd:string" />
+          <xsd:element name="numberOfUnitsShipped" type="tns:decimal15.5" />
+          <xsd:element name="shipUOM" type="xsd:string" />
+          <xsd:element name="qtyShippedToDate" type="tns:decimal15.5" />
+          <xsd:element name="orderNumber" type="xsd:string" />
+          <xsd:element name="refNumber2" type="xsd:string" />
+          <xsd:element name="numberOfLoads" type="tns:decimal15.5" />
+          <xsd:element name="numberOfUnitsShipped2" type="tns:decimal15.5" />
+          <xsd:element name="packingCode2" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="MANAsnItem">
+        <xsd:sequence>
+          <xsd:element name="asnNumber" type="xsd:string" />
+          <xsd:element name="asnDate" type="tns:date10" />
+          <xsd:element name="partWeight" type="tns:decimal15.5" />
+          <xsd:element name="partNetWeight" type="tns:decimal15.5" />
+          <xsd:element name="shipTo" type="xsd:string" />
+          <xsd:element name="shipFrom" type="xsd:string" />
+          <xsd:element name="packageCount" type="tns:decimal15.5" />
+          <xsd:element name="deliveryQuantity" type="tns:decimal15.5" />
+          <xsd:element name="supplierPartNumber" type="xsd:string" />
+          <xsd:element name="partNumber" type="xsd:string" />
+          <xsd:element name="orderNumber" type="xsd:string" />
+          <xsd:element name="carrierCompany" type="xsd:string" />
+          <xsd:element name="carrierDate" type="tns:date10" />
+          <xsd:element name="carrierTime" type="xsd:string" />
+          <xsd:element name="licensePlate" type="xsd:string" />
+          <xsd:element name="packingMaterialNumberCust" type="xsd:string" />
+          <xsd:element name="packingMaterialNumberSupp" type="xsd:string" />
+          <xsd:element name="numberOfPackingMaterials" type="tns:decimal15.5" />
+          <xsd:element name="palletNo1" type="xsd:string" />
+          <xsd:element name="palletNo2" type="xsd:string" />
+          <xsd:element name="status" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="UnionAsnItem">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="1" name="asnNumber" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="asnDate" nillable="true" type="tns:date10" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="totalGrossWeight" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="totalNetWeight" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="plantCode" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="shipFrom" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="pkgQty" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="deliveryQuantity" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="cumDeliveryQty" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="engChangeNum" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="supplierPartNumber" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="partNumber" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="orderNumber" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="modeofTransport" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="shippedQuantity" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="deliveryDock" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="equipmentQualifier" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="carrierCompany" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="carrierDate" nillable="true" type="tns:date10" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="carrierTime" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="equipmentIdNumber" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="packingPartNumberCust" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="packingPartNumberSupp" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="packageType" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="typeOfPackaging2" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="numberOfPackages" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="palletNoBas" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="palletNoBit" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="status" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="customerNum" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="absNum" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="invNumber" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="weightUM" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="barcode" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="shipFrom2" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="meaQual" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="ladingQty" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="numberOfUnitsShipped2" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="td5IDCode" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="td5TransMethod" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="equipmentDescCode" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="refNumber" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="entityIDCode" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="entityIDCode2" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="shipUOM" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="qtyShippedToDate" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldS1" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldS2" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldS3" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldS4" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldS5" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldS6" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldN1" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldN2" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldN3" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldN4" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldD1" nillable="true" type="tns:date10" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldD2" nillable="true" type="tns:date10" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldD3" nillable="true" type="tns:date10" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="extraFieldD4" nillable="true" type="tns:date10" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="getNewPurchaseOrder">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="VendorDetail" type="tns:VendorDetail" />
+            <xsd:element name="OrderExportDetail" type="tns:OrderExportDetail" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="getNewPurchaseOrderResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element minOccurs="0" maxOccurs="100000" name="OrderExport" type="tns:OrderExportType" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:complexType name="OrderExportDetail">
+        <xsd:sequence>
+          <xsd:element minOccurs="1" maxOccurs="1" name="type" type="xsd:string">
+            <xsd:annotation>
+              <xsd:documentation />
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="isMultiFile" type="xsd:string">
+            <xsd:annotation>
+              <xsd:documentation>"Y" must be send to get all orders in seperate files.</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="preferredExtension" type="xsd:string">
+            <xsd:annotation>
+              <xsd:documentation>Preferred extension for order file.</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="orderNumbers" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="zippedExport" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="getNewPurchaseOrderFault">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="message" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:complexType name="OrderExportType">
+        <xsd:sequence>
+          <xsd:element name="fileName" type="xsd:string" />
+          <xsd:element name="content" type="xsd:base64Binary" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="createNewASN">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="VendorDetail" type="tns:VendorDetail" />
+            <xsd:element name="ShipmentList" type="tns:ShipmentList" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="createNewASNResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="message" type="xsd:string" />
+            <xsd:element name="status" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="createNewASNFault">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="message" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:complexType name="ShipmentList">
+        <xsd:sequence>
+          <xsd:element minOccurs="1" maxOccurs="100000" name="Shipment" type="tns:Shipment" />
+          <xsd:element minOccurs="0" maxOccurs="100000" name="ShipmentPackage" nillable="true" type="tns:ShipmentPackage" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="Shipment">
+        <xsd:sequence>
+          <xsd:element name="ShipmentReference" type="xsd:string" />
+          <xsd:element name="ShipmentDate" type="tns:date10" />
+          <xsd:element name="DataCreationTimestamp" type="tns:dateTime16" />
+          <xsd:element name="PurchaseOrderNumber" type="xsd:string" />
+          <xsd:element name="PurchaseCommonOrderLineNumber" type="xsd:string" />
+          <xsd:element name="PartNumber" type="xsd:string" />
+          <xsd:element name="DueDate" type="tns:date10" />
+          <xsd:element name="Quantity" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="EstimatedArrivalDate" nillable="true" type="tns:date10" />
+          <xsd:element name="Department" type="xsd:string" />
+          <xsd:element name="Barcode" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="ShipmentPackage">
+        <xsd:sequence>
+          <xsd:element name="ShipmentReference" type="xsd:string" />
+          <xsd:element name="PackageType" type="xsd:string" />
+          <xsd:element name="Quantity" type="tns:decimal15.5" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="updateSupplierOrderNumber">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="VendorDetail" type="tns:VendorDetail" />
+            <xsd:element minOccurs="1" maxOccurs="1" name="OrderList" type="tns:OrderList" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="updateSupplierOrderNumberResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="message" type="xsd:string" />
+            <xsd:element name="status" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="updateSupplierOrderNumberFault">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="message" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:complexType name="OrderList">
+        <xsd:sequence>
+          <xsd:element minOccurs="1" maxOccurs="100000" name="Orders" type="tns:Orders" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="Orders">
+        <xsd:sequence>
+          <xsd:element name="OrderNumber" type="xsd:string" />
+          <xsd:element name="SupplierOrderNumber" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="OrderStatus" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="OrderStatusDescription" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:simpleType name="dateTime16">
+        <xsd:restriction base="xsd:string">
+          <xsd:maxLength value="16" />
+          <xsd:pattern value="\d\d\d\d-\d\d-\d\d \d\d:\d\d" />
+        </xsd:restriction>
+      </xsd:simpleType>
+      <xsd:element name="createNewASNExtended">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="VendorDetail" type="tns:VendorDetail" />
+            <xsd:element name="ShipmentListExtended" type="tns:ShipmentListExtended" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="createNewASNExtendedResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="message" type="xsd:string" />
+            <xsd:element name="status" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="createNewASNExtendedFault">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="message" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:complexType name="ShipmentListExtended">
+        <xsd:sequence>
+          <xsd:element minOccurs="1" maxOccurs="100000" name="ShipmentExtended" type="tns:ShipmentExtended" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="ShipmentExtended">
+        <xsd:sequence>
+          <xsd:element name="ShipmentReference" type="xsd:string" />
+          <xsd:element name="ShipmentDate" type="tns:date10" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="DataCreationTimestamp" nillable="true" type="tns:dateTime16" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="PurchaseOrderNumber" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="PurchaseCommonOrderLineNumber" nillable="true" type="xsd:string" />
+          <xsd:element name="PartNumber" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="DueDate" nillable="true" type="tns:date10" />
+          <xsd:element name="Quantity" type="tns:decimal15.5">
+            <xsd:annotation>
+              <xsd:documentation>Shipment quantity</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="TotalQuantity" nillable="true" type="tns:decimal15.5">
+            <xsd:annotation>
+              <xsd:documentation>Total quantity of this part for this order detail.</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="EstimatedArrivalDate" nillable="true" type="tns:date10" />
+          <xsd:element name="BarcodeNumber" type="xsd:string">
+            <xsd:annotation>
+              <xsd:documentation>Barcode label in the shipment for this package</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="MixedPackLabel" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="PalletLabel" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="PackageType" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="PalletPackageType" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="LotNumber" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="NetWeight" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="TotalWeight" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="ExtraShipmentReference" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="AlternativeUOM" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="AlternativeQuantity" nillable="true" type="tns:decimal15.5" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="Carrier" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="Note" nillable="true" type="xsd:string" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="updateSelfBilling">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="VendorDetail" type="tns:VendorDetail" />
+            <xsd:element name="SelfBillingList" type="tns:SelfBillingList" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="updateSelfBillingResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="message" type="xsd:string" />
+            <xsd:element name="status" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="updateSelfBillingFault">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="message" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:complexType name="SelfBillingList">
+        <xsd:sequence>
+          <xsd:element minOccurs="1" maxOccurs="100000" name="SelfBillingData" type="tns:SelfBillingData" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="SelfBillingData">
+        <xsd:sequence>
+          <xsd:element name="SupplierNumber" type="xsd:string" />
+          <xsd:element name="ReferenceNumber" type="xsd:string" />
+          <xsd:element name="ReferenceCreationDate" type="tns:date10" />
+          <xsd:element name="InvoiceAmount" type="tns:decimal20.5" />
+          <xsd:element name="Currency" type="xsd:string" />
+          <xsd:element name="Status" type="xsd:string">
+            <xsd:annotation>
+              <xsd:documentation>Allowed values for status: 1, 2, 3, 4, 9
+            				1: Created,
+            				2: New,
+            				3: Invoiced,
+            				4: Processed,
+            				9: Cancelled
+            				</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element name="InvoiceType" type="xsd:string">
+            <xsd:annotation>
+              <xsd:documentation>Allowed values for invoice type: MF, FF</xsd:documentation>
+            </xsd:annotation>
+          </xsd:element>
+          <xsd:element minOccurs="0" maxOccurs="1" name="InvoiceNumber" nillable="true" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="InvoiceDate" nillable="true" type="tns:date10" />
+          <xsd:element name="InvoicePeriod" type="xsd:string" />
+          <xsd:element name="InvoiceInterval" type="xsd:string" />
+          <xsd:element minOccurs="0" maxOccurs="1" name="FirstDespatchDate" nillable="true" type="tns:date10" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:element name="updateSupplierInventory">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="VendorDetail" type="tns:VendorDetail" />
+            <xsd:element name="SupplierInventoryElements" type="tns:SupplierInventoryElements" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="updateSupplierInventoryResponse">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="message" type="xsd:string" />
+            <xsd:element name="status" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:element name="updateSupplierInventoryFault">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="message" type="xsd:string" />
+          </xsd:sequence>
+        </xsd:complexType>
+      </xsd:element>
+      <xsd:complexType name="SupplierInventoryElements">
+        <xsd:sequence>
+          <xsd:element minOccurs="0" maxOccurs="100000" name="SupplierInventoryData" nillable="true" type="tns:SupplierInventoryData" />
+          <xsd:element minOccurs="0" maxOccurs="100000" name="SupplierInventoryPackageData" nillable="true" type="tns:SupplierInventoryPackageData" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="SupplierInventoryData">
+        <xsd:sequence>
+          <xsd:element name="ProcPartNumber" type="xsd:string" />
+          <xsd:element name="SupplierPartNumber" type="xsd:string" />
+          <xsd:element name="QuantityAmount" type="tns:decimal20.5" />
+        </xsd:sequence>
+      </xsd:complexType>
+      <xsd:complexType name="SupplierInventoryPackageData">
+        <xsd:sequence>
+          <xsd:element name="ProcPartNumber" type="xsd:string" />
+          <xsd:element name="SupplierPartNumber" type="xsd:string" />
+          <xsd:element name="PackageQuantityPerKoli" type="tns:decimal20.5" />
+          <xsd:element name="TotalPackageForTl" type="tns:decimal20.5" />
+        </xsd:sequence>
+      </xsd:complexType>
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="updateSupplierInventoryRequest">
+    <wsdl:part name="parameters" element="tns:updateSupplierInventory" />
+  </wsdl:message>
+  <wsdl:message name="transferASNFileFault">
+    <wsdl:part name="parameters" element="tns:transferASNFileFault" />
+  </wsdl:message>
+  <wsdl:message name="getNewPurchaseOrderResponse">
+    <wsdl:part name="parameters" element="tns:getNewPurchaseOrderResponse" />
+  </wsdl:message>
+  <wsdl:message name="updateSelfBillingFault">
+    <wsdl:part name="parameters" element="tns:updateSelfBillingFault" />
+  </wsdl:message>
+  <wsdl:message name="createNewASNExtendedFault">
+    <wsdl:part name="parameters" element="tns:createNewASNExtendedFault" />
+  </wsdl:message>
+  <wsdl:message name="createNewASNResponse">
+    <wsdl:part name="parameters" element="tns:createNewASNResponse" />
+  </wsdl:message>
+  <wsdl:message name="createNewASNRequest">
+    <wsdl:part name="parameters" element="tns:createNewASN" />
+  </wsdl:message>
+  <wsdl:message name="updateSupplierOrderNumberFault">
+    <wsdl:part name="parameters" element="tns:updateSupplierOrderNumberFault" />
+  </wsdl:message>
+  <wsdl:message name="createNewASNExtendedResponse">
+    <wsdl:part name="parameters" element="tns:createNewASNExtendedResponse" />
+  </wsdl:message>
+  <wsdl:message name="transferASNFileResponse">
+    <wsdl:part name="parameters" element="tns:transferASNFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="transferInvoiceFileFault">
+    <wsdl:part name="parameters" element="tns:transferInvoiceFileFault" />
+  </wsdl:message>
+  <wsdl:message name="createNewASNExtendedRequest">
+    <wsdl:part name="parameters" element="tns:createNewASNExtended" />
+  </wsdl:message>
+  <wsdl:message name="updateSelfBillingResponse">
+    <wsdl:part name="parameters" element="tns:updateSelfBillingResponse" />
+  </wsdl:message>
+  <wsdl:message name="updateSelfBillingRequest">
+    <wsdl:part name="parameters" element="tns:updateSelfBilling" />
+  </wsdl:message>
+  <wsdl:message name="updateSupplierOrderNumberResponse">
+    <wsdl:part name="parameters" element="tns:updateSupplierOrderNumberResponse" />
+  </wsdl:message>
+  <wsdl:message name="transferASNFileRequest">
+    <wsdl:part name="parameters" element="tns:transferASNFile" />
+  </wsdl:message>
+  <wsdl:message name="transferInvoiceFileResponse">
+    <wsdl:part name="parameters" element="tns:transferInvoiceFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="updateSupplierInventoryFault">
+    <wsdl:part name="parameters" element="tns:updateSupplierInventoryFault" />
+  </wsdl:message>
+  <wsdl:message name="transferInvoiceFileRequest">
+    <wsdl:part name="parameters" element="tns:transferInvoiceFile" />
+  </wsdl:message>
+  <wsdl:message name="createNewASNFault">
+    <wsdl:part name="parameters" element="tns:createNewASNFault" />
+  </wsdl:message>
+  <wsdl:message name="getNewPurchaseOrderRequest">
+    <wsdl:part name="parameters" element="tns:getNewPurchaseOrder" />
+  </wsdl:message>
+  <wsdl:message name="getNewPurchaseOrderFault">
+    <wsdl:part name="parameters" element="tns:getNewPurchaseOrderFault" />
+  </wsdl:message>
+  <wsdl:message name="updateSupplierInventoryResponse">
+    <wsdl:part name="parameters" element="tns:updateSupplierInventoryResponse" />
+  </wsdl:message>
+  <wsdl:message name="updateSupplierOrderNumberRequest">
+    <wsdl:part name="parameters" element="tns:updateSupplierOrderNumber" />
+  </wsdl:message>
+  <wsdl:portType name="vediFileTransferWS">
+    <wsdl:operation name="transferASNFile">
+      <wsdl:input name="transferASNFile" message="tns:transferASNFileRequest" />
+      <wsdl:output name="transferASNFileResponse" message="tns:transferASNFileResponse" />
+      <wsdl:fault name="transferASNFileFaultMessage" message="tns:transferASNFileFault" />
+    </wsdl:operation>
+    <wsdl:operation name="transferInvoiceFile">
+      <wsdl:input message="tns:transferInvoiceFileRequest" />
+      <wsdl:output message="tns:transferInvoiceFileResponse" />
+      <wsdl:fault name="transferInvoiceFileFaultMessage" message="tns:transferInvoiceFileFault" />
+    </wsdl:operation>
+    <wsdl:operation name="getNewPurchaseOrder">
+      <wsdl:input message="tns:getNewPurchaseOrderRequest" />
+      <wsdl:output message="tns:getNewPurchaseOrderResponse" />
+      <wsdl:fault name="getNewPurchaseOrderFaultMessage" message="tns:getNewPurchaseOrderFault" />
+    </wsdl:operation>
+    <wsdl:operation name="createNewASN">
+      <wsdl:input message="tns:createNewASNRequest" />
+      <wsdl:output message="tns:createNewASNResponse" />
+      <wsdl:fault name="createNewASNFaultMessage" message="tns:createNewASNFault" />
+    </wsdl:operation>
+    <wsdl:operation name="createNewASNExtended">
+      <wsdl:input message="tns:createNewASNExtendedRequest" />
+      <wsdl:output message="tns:createNewASNExtendedResponse" />
+      <wsdl:fault name="createNewASNExtendedFaultMessage" message="tns:createNewASNExtendedFault" />
+    </wsdl:operation>
+    <wsdl:operation name="updateSupplierOrderNumber">
+      <wsdl:input message="tns:updateSupplierOrderNumberRequest" />
+      <wsdl:output message="tns:updateSupplierOrderNumberResponse" />
+      <wsdl:fault name="updateSupplierOrderNumberFaultMessage" message="tns:updateSupplierOrderNumberFault" />
+    </wsdl:operation>
+    <wsdl:operation name="updateSelfBilling">
+      <wsdl:input message="tns:updateSelfBillingRequest" />
+      <wsdl:output message="tns:updateSelfBillingResponse" />
+      <wsdl:fault name="updateSelfBillingFaultMessage" message="tns:updateSelfBillingFault" />
+    </wsdl:operation>
+    <wsdl:operation name="updateSupplierInventory">
+      <wsdl:input message="tns:updateSupplierInventoryRequest" />
+      <wsdl:output message="tns:updateSupplierInventoryResponse" />
+      <wsdl:fault name="updateSupplierInventoryFaultMessage" message="tns:updateSupplierInventoryFault" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="vediFileTransferWSSOAP" type="tns:vediFileTransferWS">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="transferASNFile">
+      <soap:operation soapAction="transferASNFile" />
+      <wsdl:input name="transferASNFile">
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output name="transferASNFileResponse">
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="transferASNFileFaultMessage">
+        <soap:fault use="literal" name="transferASNFileFaultMessage" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="transferInvoiceFile">
+      <soap:operation soapAction="transferInvoiceFile" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="transferInvoiceFileFaultMessage">
+        <soap:fault use="literal" name="transferInvoiceFileFaultMessage" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="getNewPurchaseOrder">
+      <soap:operation soapAction="getNewPurchaseOrder" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="getNewPurchaseOrderFaultMessage">
+        <soap:fault use="literal" name="getNewPurchaseOrderFaultMessage" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="createNewASN">
+      <soap:operation soapAction="createNewASN" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="createNewASNFaultMessage">
+        <soap:fault use="literal" name="createNewASNFaultMessage" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="createNewASNExtended">
+      <soap:operation soapAction="createNewASNExtended" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="createNewASNExtendedFaultMessage">
+        <soap:fault use="literal" name="createNewASNExtendedFaultMessage" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="updateSupplierOrderNumber">
+      <soap:operation soapAction="updateSupplierOrderNumber" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="updateSupplierOrderNumberFaultMessage">
+        <soap:fault use="literal" name="updateSupplierOrderNumberFaultMessage" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="updateSelfBilling">
+      <soap:operation soapAction="updateSelfBilling" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="updateSelfBillingFaultMessage">
+        <soap:fault use="literal" name="updateSelfBillingFaultMessage" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="updateSupplierInventory">
+      <soap:operation soapAction="updateSupplierInventory" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="updateSupplierInventoryFaultMessage">
+        <soap:fault use="literal" name="updateSupplierInventoryFaultMessage" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="vediFileTransferWS">
+    <wsdl:port name="vediFileTransferWSSOAP" binding="tns:vediFileTransferWSSOAP">
+      <soap:address location="http://81.8.87.101:8080/vediFileTransferWS/services/vediFileTransferWS/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

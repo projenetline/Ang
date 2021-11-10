@@ -1,0 +1,4 @@
+15:50:16 | Hata : Nesne başvurusu bir nesnenin örneğine ayarlanmadı. Konum :    konum: PazarYeri.BusinessLayer.Koctas.KoctasLayer.getOrders() D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\Koctas\KoctasLayer.cs içinde: satır 208
+15:50:41 | Hata : Nesne başvurusu bir nesnenin örneğine ayarlanmadı. Konum :    konum: PazarYeri.BusinessLayer.Koctas.KoctasLayer.getOrders() D:\Projelerim\PazarYeri.Project\PazarYeri.BusinessLayer\Koctas\KoctasLayer.cs içinde: satır 208
+17:08:37 | path : D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\TempFile
+17:11:20 | path : D:\Projelerim\PazarYeri.Project\PazarYeri.Project\bin\Debug\TempFile
